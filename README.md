@@ -9,7 +9,7 @@
 ## 🚀 Projetos em destaque
 
 - [GARANTIA-BUSCOU](https://github.com/guubernardi/garantia-buscou)  
-  Formulário web com evidências para disputas de garantia  
+  Formulário web com texto editavel para evidências em disputas de garantia  em MarketPlaces
 - [ia-remove](https://github.com/guubernardi/ia-remove)  
   Site para remover fundos de imagens  
 
