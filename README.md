@@ -3,6 +3,12 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💼 Desenvolvedor Em Formação 
 📍 São Bernardo do Campo - SP  
+---
+
+Olá, eu sou o Gustavo! 🚀
+Apaixonado por código limpo e soluções inteligentes. 
+Atualmente estudando ADS e mergulhando em desenvolvimento front-end.
+Vamos codar juntos? 💻
 
 ---
 
