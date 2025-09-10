@@ -13,7 +13,7 @@
 - [ia-remove](https://github.com/guubernardi/ia-remove)  
   Site para remover fundos de imagens  
 - [controle_flexmania](https://github.com/guubernardi/controle_flexmania)
-  Software para controlar coletas
+- Software para controlar coletas
 ---
 
 ## 🛠 Tecnologias que uso
