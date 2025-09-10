@@ -8,10 +8,12 @@
 
 ## 🚀 Projetos em destaque
 
-- [GARANTIA-BUSCOU](https://github.com/guubernardi/garantia-buscou)  
-  Formulário web com texto editavel para evidências em disputas de garantia  em MarketPlaces
-- [ia-remove](https://github.com/guubernardi/ia-remove)  
-  Site para remover fundos de imagens  
+- [GARANTIA-BUSCOU](https://github.com/guubernardi/garantia-buscou)
+- Formulário web com texto editavel para evidências em disputas de garantia  em MarketPlaces
+  
+- [ia-remove](https://github.com/guubernardi/ia-remove)
+- Site para remover fundos de imagens
+  
 - [controle_flexmania](https://github.com/guubernardi/controle_flexmania)
 - Software para controlar coletas
 ---
