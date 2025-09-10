@@ -12,7 +12,7 @@
   Formulário web com texto editavel para evidências em disputas de garantia  em MarketPlaces
 - [ia-remove](https://github.com/guubernardi/ia-remove)  
   Site para remover fundos de imagens  
-- [Flex-Cntrole] (https://github.com/guubernardi/controle_flexmania)
+- [controle_flexmania](https://github.com/guubernardi/controle_flexmania)
   Software para controlar coletas
 ---
 
