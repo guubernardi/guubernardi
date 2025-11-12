@@ -1,32 +1,28 @@
-# 👋 Olá, eu sou o Gustavo Bernardi!
+# 👋 Olá, eu sou o Gustavo Bernardi
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor em formação focado em código limpo e soluções práticas  
-📍 São Bernardo do Campo - SP
+💻 Desenvolvedor Front-End (HTML • CSS • JavaScript • React)  
+📍 São Bernardo do Campo – SP  
 
 ---
 
 ## 🚀 Projetos em destaque
 
-- [ia-remove](https://github.com/guubernardi/ia-remove)
-    Site para remover fundos de imagens
+### 🔹 IA Remove
+Remoção de fundo de imagens Com UX simples e foco em performance.
+-
+- **Repositório:** https://github.com/guubernardi/ia-remove
 ---
 
-## 🛠 Tecnologias que uso
+## 🛠️ Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 
----
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gubernardi)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gubernardi@hotmail.com)  
+**Estudando agora:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
 ---
-
-> 💡 Buscando sempre aprender e construir projetos que resolvam problemas reais.
