@@ -19,7 +19,7 @@ Aplicação para remoção de fundo de imagens com UX simples e foco em performa
 App para listar filmes consumindo a API do **TMDB**. Permite salvar/remover filmes da lista do usuário e ver **nota** e **sinopse**.  
 🎨 Visual inspirado na Netflix (vermelho e preto).
 
-- **Repositório:** https://github.com/guubernardi/primeflix *(ajuste se o nome do repo for outro)*
+- **Repositório:** https://github.com/guubernardi/primeflix 
 
 ---
 
