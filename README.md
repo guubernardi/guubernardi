@@ -1,43 +1,46 @@
-# 👋 Olá, eu sou o Gustavo Bernardi
+👋 Olá, eu sou o Gustavo Bernardi
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Front-End (HTML • CSS • JavaScript • React • Nuxt)  
-📍 São Bernardo do Campo – SP  
-
----
+💻 Desenvolvedor Front-End — HTML • CSS • JavaScript • React • Nuxt  
+📍 São Bernardo do Campo – SP
 
 ## 🚀 Projetos em destaque
 
-### 🔹 IA Remove
-Aplicação para remoção de fundo de imagens com UX simples e foco em performance.
+### 🔹 Toyz
+Plataforma completa de gerenciamento para locadoras de brinquedos, desenvolvida em parceria via GitHub. Conta com controle de reservas, módulo financeiro, contratos digitais e sistema de assinatura recorrente.
 
-- **Repositório:** https://github.com/guubernardi/ia-remove
+🔗 https://apptoyz.com.br
 
----
+### 🔹 Rifa Tiro de Guerra
+Sistema de rifas online feito no meu ano de alistamento militar obrigatório, com pagamento via PIX pelo Asaas e sorteio integrado à Loteria Federal.
 
-### 🔹 PrimeFlix
-App para listar filmes consumindo a API do **TMDB**. Permite salvar/remover filmes da lista do usuário e ver **nota** e **sinopse**.  
-🎨 Visual inspirado na Netflix (vermelho e preto).
+🔗 https://tg-azure.vercel.app
 
-- **Repositório:** https://github.com/guubernardi/primeflix 
+### 🔹 City Toys
+Landing page desenvolvida para cliente real, com foco em UI/UX, animações fluidas em GSAP e design responsivo.
 
----
+🔗 https://citytoysbrinquedos.com
 
 ## 🛠️ Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NuxtJS](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=fff)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+</p>
 
-**Estudando agora:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+### 📚 Estudando agora
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+</p>
 
 ## 📬 Contato
-- GitHub: https://github.com/guubernardi  
-- LinkedIn: https://linkedin/in/gubernardi
+
+💼 LinkedIn  
+🐙 GitHub
