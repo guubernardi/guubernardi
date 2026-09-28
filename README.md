@@ -29,7 +29,7 @@ e aproveito para estudar como tudo funciona por dentro.
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [City Toys](https://citytoysbrinquedos.com) | Site para cliente real, com animações em GSAP | Nuxt · SASS · GSAP |
+| [City Toys](https://citytoysbrinquedos.com) | Site para cliente real, com montagem de combo, tema sazonal e SEO técnico | Nuxt · SASS |
 | [campos-br](https://github.com/guubernardi/campos-br) | Componentes Vue para formulários brasileiros (CPF, CNPJ, CEP, telefone, moeda), publicado no npm | Vue 3 · TypeScript |
 | [Banking Frontend Challenge BR](https://github.com/guubernardi/Banking-Frontend-Challenge-BR) | Desafio de front-end inspirado em bancos brasileiros | Figma · Front-end |
 | [Toyz](https://apptoyz.com.br) | Gestão para locadoras de brinquedos, feito em parceria *(back-end feito com IA)* | Nuxt · SASS |
