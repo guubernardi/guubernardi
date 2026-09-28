@@ -1,46 +1,36 @@
-👋 Olá, eu sou o Gustavo Bernardi
+# Oi, eu sou o Gustavo Bernardi 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Front-End — HTML • CSS • JavaScript • React • Nuxt  
-📍 São Bernardo do Campo – SP
+Desenvolvedor front-end em São Bernardo do Campo – SP, estudante de Análise e Desenvolvimento de Sistemas.
+Construo sites e interfaces com **Nuxt + SASS**, do layout no Figma até o deploy, e já entreguei projetos para clientes reais.
 
-## 🚀 Projetos em destaque
+🌐 [gustavobernardi.com](https://www.gustavobernardi.com) · 💼 [LinkedIn](https://www.linkedin.com/in/gubernardi/) · ✉️ gubernardi@hotmail.com
 
-### 🔹 Toyz
-Plataforma completa de gerenciamento para locadoras de brinquedos, desenvolvida em parceria via GitHub. Conta com controle de reservas, módulo financeiro, contratos digitais e sistema de assinatura recorrente.
-
-🔗 https://apptoyz.com.br
-
-### 🔹 Rifa Tiro de Guerra
-Sistema de rifas online feito no meu ano de alistamento militar obrigatório, com pagamento via PIX pelo Asaas e sorteio integrado à Loteria Federal.
-
-🔗 https://tg-azure.vercel.app
-
-### 🔹 City Toys
-Landing page desenvolvida para cliente real, com foco em UI/UX, animações fluidas em GSAP e design responsivo.
-
-🔗 https://citytoysbrinquedos.com
-
-## 🛠️ Tecnologias
+## 🛠️ O que eu domino
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" title="SASS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="45" title="Nuxt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
 </p>
 
-### 📚 Estudando agora
+**Em evolução:** React (básico) · TypeScript · Node.js
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-</p>
+## 🤖 Como eu trabalho
 
-## 📬 Contato
+O front-end, o layout e a experiência do usuário são comigo.
+Nos projetos com back-end, como APIs, banco de dados e pagamentos, uso IA (Claude) para construir essa parte
+e aproveito para estudar como tudo funciona por dentro.
 
-💼 LinkedIn  
-🐙 GitHub
+## 🚀 Projetos
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [City Toys](https://citytoysbrinquedos.com) | Site para cliente real, com animações em GSAP | Nuxt · SASS · GSAP |
+| [campos-br](https://github.com/guubernardi/campos-br) | Componentes Vue para formulários brasileiros (CPF, CNPJ, CEP, telefone, moeda), publicado no npm | Vue 3 · TypeScript |
+| [Banking Frontend Challenge BR](https://github.com/guubernardi/Banking-Frontend-Challenge-BR) | Desafio de front-end inspirado em bancos brasileiros | Figma · Front-end |
+| [Toyz](https://apptoyz.com.br) | Gestão para locadoras de brinquedos, feito em parceria *(back-end feito com IA)* | Nuxt · SASS |
+| [Rifa Tiro de Guerra](https://tg-azure.vercel.app) | Sistema de rifas com PIX e sorteio pela Loteria Federal *(back-end feito com IA)* | Nuxt · Asaas |
