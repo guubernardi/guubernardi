@@ -21,9 +21,8 @@ Construo sites e interfaces com **Nuxt + SASS**, do layout no Figma até o deplo
 
 ## 🤖 Como eu trabalho
 
-O front-end, o layout e a experiência do usuário são comigo.
-Nos projetos com back-end, como APIs, banco de dados e pagamentos, uso IA (Claude) para construir essa parte
-e aproveito para estudar como tudo funciona por dentro.
+Meu foco é front-end: pego o layout no Figma e transformo em interface responsiva, rápida e bem estruturada.
+Quando o projeto pede back-end, desenvolvo com apoio de IA e uso isso pra aprender na prática.
 
 ## 🚀 Projetos
 
@@ -34,3 +33,13 @@ e aproveito para estudar como tudo funciona por dentro.
 | [Banking Frontend Challenge BR](https://github.com/guubernardi/Banking-Frontend-Challenge-BR) | Desafio de front-end inspirado em bancos brasileiros | Figma · Front-end |
 | [Toyz](https://apptoyz.com.br) | Gestão para locadoras de brinquedos, feito em parceria *(back-end feito com IA)* | Nuxt · SASS |
 | [Rifa Tiro de Guerra](https://tg-azure.vercel.app) | Sistema de rifas com PIX e sorteio pela Loteria Federal *(back-end feito com IA)* | Nuxt · Asaas |
+
+### Outros sites para clientes
+
+| Site | O que é | Código |
+|---|---|---|
+| [Jamilly Ferreira](https://jamilly-ferreira.vercel.app) | Psicóloga, com SEO completo (JSON-LD, sitemap, llms.txt) e animações em GSAP | [repo](https://github.com/guubernardi/jamilly-ferreira-psicologa) |
+| [Conecta Contábil](https://conecta-contabil.vercel.app) | Escritório de contabilidade, com páginas de especialidade dinâmicas | [repo](https://github.com/guubernardi/conecta-contabil) |
+| [Laura Nutricionista](https://laura-nutricionista.vercel.app) | Landing page com revelação no scroll e contador animado | [repo](https://github.com/guubernardi/laura-nutricionista) |
+| [Nathalia Psicóloga](https://nathalia-psicologa.vercel.app) | Site institucional com FAQ e agendamento via WhatsApp | [repo](https://github.com/guubernardi/nathalia-psicologa) |
+| [Patas Felizes](https://patas-felizes-drab.vercel.app) | Pet shop, com imagens otimizadas em WebP | [repo](https://github.com/guubernardi/patas-felizes) |
