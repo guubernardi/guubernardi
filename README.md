@@ -2,7 +2,7 @@
 
 `Desenvolvedor Front-end`
 
-Desenvolvedor front-end em São Bernardo do Campo – SP e estudante de Análise e Desenvolvimento de Sistemas. Construo sites e interfaces de produto com Nuxt, Vue e SASS, do layout no Figma até o deploy. Já entreguei sites para clientes reais — psicólogas, escritório de contabilidade, locação de brinquedos — com SEO técnico (JSON-LD, sitemap, llms.txt) e foco em performance. Também desenvolvo produtos próprios: o [Astro](https://astrofinancas.com.br), app de finanças pessoais com assinatura, e o [campos-br](https://github.com/guubernardi/campos-br), biblioteca de componentes Vue para formulários brasileiros publicada no npm.
+Desenvolvedor front-end em São Bernardo do Campo, SP, e estudante de Análise e Desenvolvimento de Sistemas. Construo sites e interfaces de produto com Nuxt, Vue e SASS, do layout no Figma até o deploy. Já entreguei sites para clientes reais, como psicólogas, escritório de contabilidade e locação de brinquedos, com SEO técnico (JSON-LD, sitemap, llms.txt) e foco em performance. Também desenvolvo produtos próprios: o [Astro](https://astrofinancas.com.br), app de finanças pessoais com assinatura, e o [campos-br](https://github.com/guubernardi/campos-br), biblioteca de componentes Vue para formulários brasileiros publicada no npm.
 
 [gustavobernardi.com](https://www.gustavobernardi.com) · [LinkedIn](https://www.linkedin.com/in/gubernardi/) · gubernardi@hotmail.com
 
